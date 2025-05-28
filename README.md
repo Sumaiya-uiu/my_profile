@@ -3,13 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumaiya-uiu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumaiya-uiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumaiya-uiu&show_icons=true&theme=dracula" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula&hide=html,css,hack,jupyter%20notebook" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -43,7 +41,3 @@
 - 💬 Ask me about backend development with Python and AWS, or building REST APIs.
 - 📫 How to reach me: jahansumaiya49@gmail.com | [LinkedIn](https://www.linkedin.com/in/sumaiyaakter23)
 - ⚡ Fun fact: I love building practical tools like exam and project management systems.
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
