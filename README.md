@@ -40,4 +40,8 @@
 - 👯 I’m looking to collaborate on backend or cloud-based software projects.
 - 💬 Ask me about backend development with Python and AWS, or building REST APIs.
 - 📫 How to reach me: jahansumaiya49@gmail.com | [LinkedIn](https://www.linkedin.com/in/sumaiyaakter23)
-- ⚡ Fun fact: I love building practical tools like exam and project management systems.
+- ⚡ Fun fact: I love building practical tools like exam and project management systems.\
+<br clear="both">
+
+![Snake animation](https://github.com/Sumaiya-uiu/my_profile/blob/output/snake.svg?raw=true)
+
