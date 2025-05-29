@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumaiya-uiu&show_icons=true&theme=dracula" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula&hide=html,css,hack,jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-uiu&layout=compact&theme=dracula&hide=html,css,hack,typescript" />
 </div>
 
 
